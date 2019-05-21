@@ -159,3 +159,5 @@ and the regression tests for for the pipeline will be run.
 ## FAQ<a name="FAQ"></a>
 
 None yet, we will keep this updated as needed.
+
+## add genome annotation feature
